@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Aditya11835
+- 🌱 I’m currently learning Computer Science Engineering and German
