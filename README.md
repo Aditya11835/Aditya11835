@@ -13,13 +13,16 @@ I'm a **2nd-year Computer Science Engineering student** passionate about **codin
 ### 🔧 What I’m Working On
 - 🛠️ **Compiler Project**  
 - 🌐 **Web Development Projects**  
-- ♟️ **Chess Game**
-- 🌱 **Open-source Contribution: Crate.ly - A URL shortener for BlazinglyFast Hackathon**  
+- ♟️ **Chess Game**  
+- 🌱 **Open-source Contribution**  
 
 ### 💡 Goals
 - Build diverse and impactful personal projects  
 - Collaborate with other developers to learn and grow  
 
+### 🔨 What I Have Worked On
+- **[Crate.ly - A Rust-based URL shortener for BlazinglyFast Hackathon](https://github.com/anomitroid/crate.ly---rust-based-URL-shortener.git)**  
+
 ### 📫 Get in Touch  
-- [LinkedIn] https://www.linkedin.com/in/aditya-negi-084696247/
-- [Email]imapoorvanegi@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/aditya-negi-084696247/)  
+- [Email](mailto:imapoorvanegi@gmail.com)  
