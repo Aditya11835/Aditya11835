@@ -8,13 +8,13 @@ I'm a **2nd-year Computer Science Engineering student** passionate about **codin
 - 💻 **Version Control (Git/GitHub)**  
 - 📊 **DBMS (Databases)**  
 - 🤖 **Artificial Intelligence (AI)**  
-- 💡 **LeetCode and Competitive Problem Solving**  
-- 🌱 **Open-source Contributions**  
+- 💡 **LeetCode and Competitive Problem Solving**
 
 ### 🔧 What I’m Working On
 - 🛠️ **Compiler Project**  
 - 🌐 **Web Development Projects**  
-- ♟️ **Chess Game**  
+- ♟️ **Chess Game**
+- 🌱 **Open-source Contribution: Crate.ly - A URL shortener for BlazinglyFast Hackathon**  
 
 ### 💡 Goals
 - Build diverse and impactful personal projects  
