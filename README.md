@@ -1,26 +1,46 @@
-# Hi there! 👋
+# Hi there! 👋  
 
-I'm a **3rd-year Computer Science Engineering student** passionate about **coding, problem-solving, and continuous learning**.
-I'm currently exploring:
+I'm **Aditya Apoorva Negi**, a **3rd-year Computer Science Engineering student** at **IIIT Pune**, driven by a passion for **problem-solving, and building meaningful tech solutions**.
 
-- 🌐 **Web Development**  
-- 🧩 **Data Structures & Algorithms**  
-- 🖥️ **Operating Systems**  
-- 💻 **Version Control (Git/GitHub)**  
-- 📊 **DBMS**  
-- 🤖 **Artificial Intelligence**  
-- 💡 **LeetCode and Competitive Problem Solving**  
+---
 
-### 🔨 What I Have Worked On
-- **[Crate.ly - A Rust-based URL shortener for BlazinglyFast Hackathon](https://github.com/anomitroid/crate.ly---rust-based-URL-shortener.git)**
-- **[Syapse - Electron-based cross-device real-time focus state broadcaster for Synapse — syncs focus mode from your PC to phone and browser via Firebase.](https://github.com/Aditya11835/Synapse-Electron)**
+### 🚀 Currently Exploring:
+- 🌐 **Full Stack Web Development**
+- 🧩 **Data Structures & Algorithms (LeetCode, Competitive Programming)**
+- 🖥️ **Operating Systems & Compiler Design**
+- 🛠️ **Version Control (Git, GitHub)**
+- 📊 **Databases (MySQL, MongoDB, PostgreSQL)**
+- 🤖 **Machine Learning & AI (in progress)**
+- ⚙️ **Backend Systems with Firebase, Rust, Node.js**
 
-### 🖥️ Languages I Know
-- C, C++, Java, JavaScript, Python, Rust, C#
+---
 
-### ⚙️ Technologies
-- MySQL, PostgreSQL, GIT, Cargo, NPM, Maven, Gradle, Linux, Electron.js, Unity
+### 🔨 Projects I've Worked On:
+- 🔗 **[Crate.ly](https://github.com/anomitroid/crate.ly---rust-based-URL-shortener.git)** – Rust-based URL shortener with redirect handling and data persistence; built for *BlazinglyFast Hackathon*
+- 🧠 **[Synapse](https://github.com/Aditya11835/Synapse-Electron)** – Electron-based cross-platform real-time focus state broadcaster using Firebase; 5th place at *HackForMental Hackathon*
 
-### 📫 Get in Touch  
-- [LinkedIn](https://www.linkedin.com/in/aditya-negi-084696247/)  
-- [Email](mailto:imapoorvanegi@gmail.com)  
+---
+
+### 🖥️ Languages I Know:
+C, C++, Java, Python, Rust, C#, JavaScript  
+
+---
+
+### ⚙️ Technologies & Tools:
+- Databases: MySQL, MongoDB, PostgreSQL  
+- Dev Tools: Git, GitHub, Maven, Gradle, Cargo, NPM  
+- Frameworks/Platforms: Electron.js, Node.js, Unity Game Engine  
+- OS & Environment: Linux (Ubuntu), Windows  
+
+---
+
+### 📜 Certifications:
+- **Python for Data Science & Machine Learning** – Jose Portilla (Udemy)  
+- **The Web Developer Bootcamp 2025** – Colt Steele (Udemy)
+
+---
+
+### 📫 Let's Connect:
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-negi-084696247/)  
+- 📬 [Email Me](mailto:imapoorvanegi@gmail.com)  
+- 💻 [GitHub Profile](https://github.com/Aditya11835)
