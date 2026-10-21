@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm **Aditya Apoorva Negi**, a **3rd-year Computer Science Engineering student** at **IIIT Pune**, driven by a passion for **problem-solving, and building meaningful tech solutions**.
+I'm **Aditya Apoorva Negi**, a **4th-year Computer Science Engineering student** at **IIIT Pune** who is passionate about learning Computer Science, exploring and developing technologies, and problem solving.
 
 ---
 
@@ -8,10 +8,7 @@ I'm **Aditya Apoorva Negi**, a **3rd-year Computer Science Engineering student**
 - 🌐 **Full Stack Web Development**
 - 🧩 **Data Structures & Algorithms (LeetCode, Competitive Programming)**
 - 🖥️ **Operating Systems & Compiler Design**
-- 🛠️ **Version Control (Git, GitHub)**
-- 📊 **Databases (MySQL, MongoDB, PostgreSQL)**
 - 🤖 **Machine Learning & AI (in progress)**
-- ⚙️ **Backend Systems with Firebase, Rust, Node.js**
 
 ---
 
@@ -22,15 +19,15 @@ I'm **Aditya Apoorva Negi**, a **3rd-year Computer Science Engineering student**
 ---
 
 ### 🖥️ Languages I Know:
-C, C++, Java, Python, Rust, C#, JavaScript  
+C, C++, Java, Python, C#, JavaScript  
 
 ---
 
 ### ⚙️ Technologies & Tools:
-- Databases: MySQL, MongoDB, PostgreSQL  
+- Databases: MySQL, MongoDB, PostgreSQL, MSSQL  
 - Dev Tools: Git, GitHub, Maven, Gradle, Cargo, NPM  
-- Frameworks/Platforms: Electron.js, Node.js, Unity Game Engine  
-- OS & Environment: Linux (Ubuntu), Windows  
+- Frameworks/Platforms: Electron.js, Node.js, Unity Game Engine, Flask  
+- OS & Environment: Linux (Ubuntu, Fedora), Windows  
 
 ---
 
